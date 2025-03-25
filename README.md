@@ -2,7 +2,8 @@
 
 A simple web application that lets you create colored text for Discord using ANSI code blocks. This tool makes it easy to add some colorful flair to your Discord messages.
 
-![Discord Text Generator Preview](https://i.imgur.com/your-image-url.jpg)
+![Discord Text Generator Preview]
+![image](https://github.com/user-attachments/assets/22229fc7-d36b-4517-8684-38a79d1f9c0d)
 
 ## Features
 - Choose from various text colors (red, green, yellow, blue, magenta, cyan)
